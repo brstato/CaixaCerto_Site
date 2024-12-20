@@ -1,1 +1,1 @@
-download = 'https://drive.usercontent.google.com/download?id=1qWS4A51F_MdO2BRWpL-f5X7XGHA77x5t&export=download&authuser=0&confirm=t&uuid=38f83f36-8d2d-4a12-8abd-3e61bd04f2b2&at=APvzH3p7zJMwO6sIhaPcFITXiUGZ:1733439274932'
+download = 'https://github.com/brstato/CaixaCerto_Site/releases/download/CaixaCerto/CaixaCerto_setup.exe'
